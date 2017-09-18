@@ -1,0 +1,14 @@
+{
+  "name": "nodesqlserver",
+  "version": "1.0.0",
+  "description": "Node API accessing a SQL Server hosted on Azure Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur B. de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "tedious": "^2.0.0"
+  }
+}
